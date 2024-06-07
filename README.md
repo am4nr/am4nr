@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🎓Currently studying Business Information Technology at Kiel University of Applied Science
 <!--
 **am4nr/am4nr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
